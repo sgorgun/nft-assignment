@@ -245,7 +245,21 @@ This project demonstrates practical understanding of:
 * Hardhat deployment workflows
 
 ---
+# 8. *Transactions links**
 
-# 8. **Github Repository**
+| Purpose | Etherscan Link |
+|------|---------------|
+| ERC-721 Contract | https://sepolia.etherscan.io/address/0x02C6A937d681F71ef65A92f3a54A9D958f4c3575 |
+| ERC-721 Mint | https://sepolia.etherscan.io/tx/0x7a2d43ee4a79624ad8722b82dbf1937093583d13bcb5b87b1f22577baffb18cc |
+| ERC-721 setTokenURI | https://sepolia.etherscan.io/tx/0x4024e10b412de73fa3222a8adb34850e10eb8f4598e80d29cd18d138ec2bb7a1 |
+| ERC-1155 Contract | https://sepolia.etherscan.io/address/0xE7e13eB942EF932A18f35717891b25520cAC9Cdf |
+| ERC-1155 Batch Mint | https://sepolia.etherscan.io/tx/0x6d5e25e3526acf54511624b2c7521291ef98d2ff45c586a78f931c9e71e7bde2 |
+| ERC-1155 Batch Transfer | https://sepolia.etherscan.io/tx/0x8a7327b9f8aeef62a32fdd6824906a9e5f469cf1d845c89f6e0865d5ef990e7e |
+| ERC-1155 setURI | https://sepolia.etherscan.io/tx/0x927696bdc0e13affc6da3d7ba64468dfd298f85eb967db2009034333f729e026 |
+
+
+---
+
+# 9. **Github Repository**
 
 https://github.com/sgorgun/nft-assignment
